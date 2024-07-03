@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/Asus/IdeaProjects/ATB6XRESTASSURED/src/test/java/org/example/createBookingUsingMaps.java"><classes><class name="org.example.createBookingUsingMaps"><methods><include name="CreateBooking"/></methods></class></classes></test></suite>

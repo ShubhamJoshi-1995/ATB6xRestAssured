@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:\Users\Asus\IdeaProjects\ATB6XRESTASSURED"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.418">
+    <properties></properties>
+
+
+
+            <testcase
+                name="PingRequest"
+                time="1.238"
+                classname="org.example.Ex1">
+            </testcase>
+            <testcase
+                name="PingRequest2"
+                time="1.180"
+                classname="org.example.Ex1">
+            </testcase>
+</testsuite>
