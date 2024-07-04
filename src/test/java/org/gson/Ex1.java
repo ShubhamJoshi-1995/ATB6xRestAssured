@@ -1,4 +1,4 @@
-package org.example;
+package org.gson;
 
 import io.qameta.allure.Description;
 import io.restassured.RestAssured;

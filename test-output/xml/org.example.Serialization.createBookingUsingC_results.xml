@@ -4,14 +4,14 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.681">
+           time="4.230">
     <properties></properties>
 
 
 
             <testcase
                 name="Cb"
-                time="0.681"
+                time="4.230"
                 classname="org.example.Serialization.createBookingUsingC">
             </testcase>
 </testsuite>

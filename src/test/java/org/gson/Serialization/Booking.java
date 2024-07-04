@@ -1,4 +1,4 @@
-package org.example.Serialization;
+package org.gson.Serialization;
 
 public class Booking {
 

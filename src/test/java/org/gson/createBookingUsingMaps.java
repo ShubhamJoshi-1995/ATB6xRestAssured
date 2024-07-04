@@ -1,4 +1,4 @@
-package org.example;
+package org.gson;
 
 import com.github.javafaker.Faker;
 import io.restassured.RestAssured;

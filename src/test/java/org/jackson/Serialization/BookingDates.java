@@ -1,4 +1,4 @@
-package org.example.Serialization;
+package org.jackson.Serialization;
 
 public class BookingDates {
 

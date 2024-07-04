@@ -1,4 +1,4 @@
-package org.example;
+package org.gson;
 
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
